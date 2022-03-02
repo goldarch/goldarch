@@ -13,7 +13,7 @@ QQ群：38774625
 网站：http://posn.net && http://bandpos.com  
 博客：https://www.cnblogs.com/goldarch/  
 我的开源:https://github.com/goldarch  
-我的微博：正念坊  
+我的微博：https://weibo.com/posnsoft  
   
 <!--
 **goldarch/goldarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
