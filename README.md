@@ -1,5 +1,11 @@
 ### Hi there 👋
 GitHub有一个彩蛋，就是跟用户同名的仓库里面的README文件会显示在主页。通过这个README文件，我们就可以构造出个性化的GitHub个人主页。  
+应用C#,ms sql,vfp等,对软件系统架构、企业管理软件开发、上位机、wince等制造企业应用场景有一些开发和研究。除了软件研发，对企业管理和心理学也非常感兴趣，欢迎朋友们交流
+QQ群：38774625  
+QQ:444743315  
+抖音号：971113627  
+微信公众号:正念坊  
+博客：https://www.cnblogs.com/goldarch/  
 <!--
 **goldarch/goldarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
