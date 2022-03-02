@@ -5,6 +5,7 @@ QQ群：38774625
 QQ:444743315  
 抖音号：971113627  
 微信公众号:正念坊  
+网站：http://posn.net http://bandpos.com  
 博客：https://www.cnblogs.com/goldarch/  
 <!--
 **goldarch/goldarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
