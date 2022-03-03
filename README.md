@@ -14,6 +14,10 @@ QQ群：38774625 （验证码：goldarch）
 博客：https://www.cnblogs.com/goldarch/  
 我的开源:https://github.com/goldarch  
 我的微博：https://weibo.com/posnsoft  
+
+![Image text](https://github.com/goldarch/goldarch/raw/main/img-folder/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
+
+![Image text](https://github.com/goldarch/goldarch/raw/main/img-folder/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
   
 <!--
 **goldarch/goldarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
