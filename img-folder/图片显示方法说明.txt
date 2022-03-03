@@ -1,0 +1,20 @@
+1、在github上的仓库建立一个存放图片的文件夹，文件夹名字随意。如：img-folder
+
+2、将需要在READNE.md中显示的图片，push到img-folder文件夹中。
+
+3、然后打开github官网，进入仓库的img-folder文件夹中，打开图片
+
+点击红框所示的按钮，copy地址。
+
+4、在README.md中填入：
+
+![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+
+保存即可。
+
+注：![Image text]这个标识不可缺少，不然就显示文字了。
+
+Image text：指的是如果图片不存在了，要显示的文字说明。
+————————————————
+版权声明：本文为CSDN博主「猪猪猪猪猪鸭」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_34173549/article/details/80551021
