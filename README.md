@@ -7,7 +7,7 @@ GitHub有一个彩蛋，就是跟用户同名的仓库里面的README文件会�
 --  
 
 QQ:444743315  
-QQ群：38774625  
+QQ群：38774625 （验证码：goldarch）  
 抖音号：971113627  
 微信公众号:正念坊  
 网站：http://posn.net && http://bandpos.com  
