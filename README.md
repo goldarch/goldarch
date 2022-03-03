@@ -14,8 +14,7 @@ QQ群：38774625 （验证码：goldarch）
 博客：https://www.cnblogs.com/goldarch/  
 我的开源:https://github.com/goldarch  
 我的微博：https://weibo.com/posnsoft  
-  
-  --
+
 如果觉得还可以的话，点个赞呗~  
 --
 打赏一下的话就更好了~  
