@@ -23,11 +23,8 @@ QQ群：38774625 （验证码：goldarch）
 --
 <div align="center">
 	<img src="https://github.com/goldarch/goldarch/raw/main/img-folder/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" alt="Editor" width="300">
-</div>
-<div align="center">
 	<img src="https://github.com/goldarch/goldarch/raw/main/img-folder/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" alt="Editor" width="300">
 </div>
-
 <!--
 本处是注释掉的内容，返回的是图片的原始尺寸。GitHub 不支持 markdown 的 size 语法，可以用 HTML 标签来做
 
