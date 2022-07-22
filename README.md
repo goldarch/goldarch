@@ -24,7 +24,7 @@ QQ群：38774625 （验证码：goldarch）
 打赏一下的话就更好了~  
 --
 <div align="center">
-	<img src="https://github.com/goldarch/goldarch/blob/main/img-folder/微信-支付宝.png" alt="支付码" width="800">
+	<img src="https://github.com/goldarch/goldarch/blob/main/img-folder/微信-支付宝.png" alt="支付码" width="270">
 </div>
 <!--
 本处是注释掉的内容，返回的是图片的原始尺寸。GitHub 不支持 markdown 的 size 语法，可以用 HTML 标签来做
