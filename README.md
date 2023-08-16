@@ -20,24 +20,6 @@ QQ群：38774625 （验证码：goldarch）
 您的支持是作者写作最大的动力！
   --
 如果觉得还可以的话，点个赞呗~  
---
-打赏一下的话就更好了~  
---
-<div align="center">
-	<img src="https://github.com/goldarch/goldarch/blob/main/img-folder/wx-zfb.png" alt="支付码" width="270">
-</div>
-<!--
-本处是注释掉的内容，返回的是图片的原始尺寸。GitHub 不支持 markdown 的 size 语法，可以用 HTML 标签来做
-
-<div align="center">
-	<img src="https://github.com/goldarch/goldarch/raw/main/img-folder/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" alt="Editor" width="300">
-	<img src="https://github.com/goldarch/goldarch/raw/main/img-folder/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" alt="Editor" width="300">
-</div>
-
-![Image text](https://github.com/goldarch/goldarch/raw/main/img-folder/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
-
-![Image text](https://github.com/goldarch/goldarch/raw/main/img-folder/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
--->
 
 <!--
 **goldarch/goldarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
